@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">K-FourSquare</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="sing_in">Sing In</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="add_location">Add Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sing_out">Sing Out</string>
+    <string name="what_kind_of_place">what kind of place</string>
+    <string name="place_type">Place Type</string>
+    <string name="place_name">Place Name</string>
+    <string name="next">Next</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="save_place">Save Place</string>
+</resources>
